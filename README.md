@@ -5,6 +5,3 @@ https://github.com/truptikvpcoe/Deep-Learning/assets/43569444/0cc84157-9a02-462f
 
 
 
-
-(https://www.kaggle.com/datasets/erhmrai/ecg-image-data)
-![image](https://github.com/truptikvpcoe/Deep-Learning/assets/43569444/ee011776-fb59-454e-9ff7-cd81a5ee5342)
